@@ -28,7 +28,7 @@ As the module will not load with recent kernel and headers, we add the possibili
 
 UPDATE 0.1.1 : RPi B+ VERSION :
 
-The new Raspberry Pi B+ Revision brought us 9 more GPIOs, so we are now able to connect 2 joysticks and 12 buttons directly to GPIOs. I updated the driver in order to support the 2 joysticks on GPIO configuration.
+The new Raspberry Pi B+ Revision brought us 9 more GPIOs, so we are now able to connect 2 joysticks and 12 (Ben updated to 16 buttons for 1 player) buttons directly to GPIOs. I updated the driver in order to support the 2 joysticks on GPIO configuration.
 
 ### Even More Joysticks ###
 
